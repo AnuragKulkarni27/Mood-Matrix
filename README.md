@@ -1,0 +1,1 @@
+The objective of the program given is to detect and analyse object of interest(face) in real time and to keep track of the same object. This is a simple example of how to detect and analyse human emotion in Python. You can try to use training samples of any other object of your choice to be detected by training the classifier on required objects
